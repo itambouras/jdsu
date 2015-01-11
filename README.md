@@ -1,3 +1,3 @@
 a blank README.md
 hello unoriginal
-hello ssh
+hello git@github:
